@@ -1,0 +1,1 @@
+Godot 3.5 demo project created for: https://godotforums.org/d/32071-card-a-vs-card-b-battle-card-game
